@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        ArrayList<String> list = new ArrayList<>(); 
+        ArrayList<String> list = new ArrayList<>();
         Scanner in = new Scanner(System.in);
         boolean running = true;
 
